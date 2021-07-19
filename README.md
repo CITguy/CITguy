@@ -1,5 +1,8 @@
-### Hi there 👋
+[Twitter](https://twitter.com/CITguy) •
+[CodePen](https://codepen.io/CITguy) •
+[LinkedIn](https://www.linkedin.com/in/citguy)
 
+### Hi there 👋
 <!--
 **CITguy/CITguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,13 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the "Bolt" design system at Nationwide (_unrelated to boltdesignsystem.com_).
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about Web Components and Design Systems
-
-
-#### Contact Me At
-
-- twitter: [@CITguy](https://twitter.com/CITguy/)
-- codepen: [CITguy](https://codepen.io/CITguy)
-- linkedin: [CITguy](https://www.linkedin.com/in/citguy)
 
 #### Other
 - [dotfiles](https://github.com/CITguy/dotfiles)
