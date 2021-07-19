@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+Projects and Expertise:
+
+- Topic: Project1, Link1, ...
+-->
+
 - 🔭 I’m currently working on the "Bolt" design system at Nationwide (_unrelated to boltdesignsystem.com_).
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about Web Components and Design Systems
