@@ -23,8 +23,9 @@ Projects and Expertise:
 - Topic: Project1, Link1, ...
 -->
 
-- 🔭 I’m currently working on the "Bolt" design system at Nationwide (_unrelated to boltdesignsystem.com_).
-- 🌱 I’m currently learning Angular
+- 🔭 I'm currently working on the "Bolt" design system at Nationwide (_unrelated to boltdesignsystem.com_).
+- 🌱 I'm currently learning Angular
+- 🌱 I'm currently enrolled in classes to acquire a certificate in AI/ML
 - 💬 Ask me about Web Components and Design Systems
 
 #### Other
